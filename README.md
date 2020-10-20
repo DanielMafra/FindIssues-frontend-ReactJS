@@ -13,4 +13,6 @@ A web app made with ReactJS to save GitHub repositories on localstorage and list
 * Using the terminal, navigate to the project folder and use the **yarn start** command.
 * Done! The project will be running on **localhost: 3000**
 
+* This project uses: React (ReactJS), Axios, React Router DOM, Styled Components, localStorage.
+
 ### Doubts? Send me a message on my social networks. Good luck! ;)
