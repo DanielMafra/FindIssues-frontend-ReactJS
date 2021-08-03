@@ -1,4 +1,4 @@
-# Find Issues | front-end | ReactJS
+# Find Issues | Front-end | ReactJS
 
 A web app made with ReactJS to save GitHub repositories (using GitHub API) on localstorage and list/find issues. Just inform the owner of the repository and the name of the repository, right after clicking to add. For example: **facebook/react** (the list of your repositories will be saved in localstorage and will be displayed whenever you access).
 
